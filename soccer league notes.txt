@@ -1,0 +1,5 @@
+there can be data duplication from goals in a match,
+because goals determine winner;
+but you also have a winner data column
+
+lookup dynamic tables derived from other info
